@@ -24,7 +24,7 @@ def lambda_handler(event, context):
         }
     
    
-
+#teste deploy esteira
     try:
         response = cognito_client.initiate_auth(
             AuthFlow='USER_PASSWORD_AUTH',
