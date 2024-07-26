@@ -5,7 +5,7 @@ from botocore.exceptions import ClientError
 cognito_client = boto3.client('cognito-idp')
 
 USER_POOL_ID = 'us-east-1_s1VeEPHyY'
-CLIENT_ID = '7ien1g4pficmdogqkr9irrnfb4'
+CLIENT_ID = '4a97pc3tkbr3uis8nl5ufgv5iu'
 
 
 def lambda_handler(event, context):
