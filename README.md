@@ -1,5 +1,5 @@
 # Hackathon FIAP
-## Lambda de autenticação de Pacientes
+## Lambda de autenticação de Medicos
 
 Esse componente serve para autenticar os usuários do perfil de medicos e retornar um token JWT para realizar a autorização em nosso Api Gateway.
 
